@@ -1,0 +1,13 @@
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.exe
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.deps.json
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.runtimeconfig.json
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.runtimeconfig.dev.json
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.dll
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\bin\Debug\netcoreapp3.1\OnlineStoreUMLproject.pdb
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.csprojAssemblyReference.cache
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.AssemblyInfoInputs.cache
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.AssemblyInfo.cs
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.csproj.CoreCompileInputs.cache
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.dll
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.pdb
+D:\ITMO\UML\realization\OnlineStoreUMLproject\OnlineStoreUMLproject\obj\Debug\netcoreapp3.1\OnlineStoreUMLproject.genruntimeconfig.cache
